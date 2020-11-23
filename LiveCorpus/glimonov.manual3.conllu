@@ -105,7 +105,7 @@
 102	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#252.175#252.525
 103	тиражом	тираж	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#252.525#252.875
 104	//	//	PUNCT	_	_	_	_	_	words@dig1967m#@dig1967m#252.875#253.225
-105	фантастика	фантастика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@dig1967m#@dig1967m#259.065#259.53
+105	фантастика	фантастика	INTJ	_	_	_	_	_	words@dig1967m#@dig1967m#259.065#259.53
 106	//	//	PUNCT	_	_	_	_	_	words@dig1967m#@dig1967m#259.53#259.995
 107	и	и	CCONJ	_	_	_	_	_	words@dig1967m#@dig1967m#320.21#320.368
 108	в	в	ADP	_	_	_	_	_	words@dig1967m#@dig1967m#320.368#320.526
